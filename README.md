@@ -17,5 +17,7 @@ accurate answers along with short explanations using a local LLM.
 ## Usage
 Run the app using:
 streamlit run app.py
+
+
 ##Author
 Jeyasri 
